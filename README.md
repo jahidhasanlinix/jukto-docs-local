@@ -19,15 +19,15 @@ Without a unified data layer, agents resort to brittle API calls, manual data lo
 
 ## Features:
 
-- Unified Search API: Query all your tools through a single REST or async API, with natural language support.  
-- Custom Connectors: Build and share integrations for any app or database using our modular framework.  
-- Privacy-First: End-to-end encryption and local data processing ensure compliance and security.  
-- Supported Formats: Documents (PDF, DOCX, TXT), images (PNG, JPEG), spreadsheets (XLSX, CSV), and more.  
-- Scalable Deployment: Run Jukto on Docker, serverless (AWS Lambda), or Kubernetes for flexibility.
+- **Unified Search API**: Query all your tools through a single REST or async API, with natural language support.  
+- **Custom Connectors**: Build and share integrations for any app or database using our modular framework.  
+- **Privacy-First**: End-to-end encryption and local data processing ensure compliance and security.  
+- **Supported Formats**: Documents (PDF, DOCX, TXT), images (PNG, JPEG), spreadsheets (XLSX, CSV), and more.  
+- **Scalable Deployment**: Run Jukto on Docker, serverless (AWS Lambda), or Kubernetes for flexibility.
 
 ## Use Cases:
 
-- Productivity Agents: Search across Slack, Notion, and Google Calendar to summarize team tasks.  
-- Compliance Automation: Validate contracts in Dropbox against regulatory data in real-time.  
-- Developer Tools: Enable agents to query GitHub repos and Jira tickets to streamline coding workflows.
+- **Productivity Agents**: Search across Slack, Notion, and Google Calendar to summarize team tasks.  
+- **Compliance Automation**: Validate contracts in Dropbox against regulatory data in real-time.  
+- **Developer Tools**: Enable agents to query GitHub repos and Jira tickets to streamline coding workflows.
 
