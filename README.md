@@ -25,9 +25,3 @@ Without a unified data layer, agents resort to brittle API calls, manual data lo
 - **Supported Formats**: Documents (PDF, DOCX, TXT), images (PNG, JPEG), spreadsheets (XLSX, CSV), and more.  
 - **Scalable Deployment**: Run Jukto on Docker, serverless (AWS Lambda), or Kubernetes for flexibility.
 
-## Use Cases:
-
-- **Productivity Agents**: Search across Slack, Notion, and Google Calendar to summarize team tasks.  
-- **Compliance Automation**: Validate contracts in Dropbox against regulatory data in real-time.  
-- **Developer Tools**: Enable agents to query GitHub repos and Jira tickets to streamline coding workflows.
-
